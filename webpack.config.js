@@ -13,7 +13,7 @@ module.exports = {
 	// 指定打包文件所在目录
 	output: {
 		// 指定打包文件的目录
-		path: path.resolve(__dirname, "dist"),
+		path: path.resolve(__dirname, "app"),
 		// 打包后文件的文件
 		filename: "bundle.js",
 
